@@ -1,0 +1,131 @@
+[INFO ] 2020-01-29 22:57:01.209 [main] Stepps - Setting up Chrome Browser
+[INFO ] 2020-01-29 22:57:16.756 [main] Stepps - Setting up Chrome Browser
+[INFO ] 2020-01-29 23:08:05.070 [main] Stepps - Setting up Chrome Browser
+[INFO ] 2020-01-29 23:08:07.091 [main] Stepps - Navigating to URL
+[INFO ] 2020-01-29 23:08:08.907 [main] Stepps - Clicking on Account
+[INFO ] 2020-01-29 23:08:10.548 [main] Stepps - Typing the login email
+[INFO ] 2020-01-29 23:08:10.842 [main] Stepps - Clicking on Continue Button
+[INFO ] 2020-01-29 23:08:11.297 [main] Stepps - Typing the password
+[INFO ] 2020-01-29 23:08:11.403 [main] Stepps - Clicking on Signin
+[INFO ] 2020-01-29 23:08:13.427 [main] Stepps - Verifying User Name 
+[INFO ] 2020-01-29 23:08:14.390 [main] Stepps - Clicking on SignOut Button
+[INFO ] 2020-01-29 23:08:19.886 [main] Stepps - Closing the Browser
+[INFO ] 2020-01-29 23:08:20.089 [main] Stepps - Setting up Chrome Browser
+[INFO ] 2020-01-29 23:08:21.500 [main] Stepps - Navigating to URL
+[INFO ] 2020-01-29 23:08:23.106 [main] Stepps - Clicking on Account
+[INFO ] 2020-01-29 23:08:24.744 [main] Stepps - Typing the login email
+[INFO ] 2020-01-29 23:08:24.978 [main] Stepps - Clicking on Continue Button
+[INFO ] 2020-01-29 23:08:25.479 [main] Stepps - Typing the password
+[INFO ] 2020-01-29 23:08:25.616 [main] Stepps - Clicking on Signin
+[INFO ] 2020-01-29 23:08:26.232 [main] Stepps - Verifying SignIn Error Message
+[INFO ] 2020-01-29 23:08:26.293 [main] Stepps - Closing the Browser
+[INFO ] 2020-01-30 15:48:30.512 [main] Stepps - Setting up Chrome Browser
+[INFO ] 2020-01-30 15:48:36.642 [main] Stepps - Navigating to URL
+[INFO ] 2020-01-30 15:48:38.542 [main] Stepps - Clicking on Account
+[INFO ] 2020-01-30 15:48:39.987 [main] Stepps - Typing the login email
+[INFO ] 2020-01-30 15:48:40.261 [main] Stepps - Clicking on Continue Button
+[INFO ] 2020-01-30 15:48:40.727 [main] Stepps - Typing the password
+[INFO ] 2020-01-30 15:48:40.850 [main] Stepps - Clicking on Signin
+[INFO ] 2020-01-30 15:48:43.429 [main] Stepps - Verifying User Name 
+[INFO ] 2020-01-30 15:48:43.646 [main] Stepps - Clicking on SignOut Button
+[INFO ] 2020-01-30 15:48:50.109 [main] Stepps - Closing the Browser
+[INFO ] 2020-01-30 15:48:50.265 [main] Stepps - Setting up Chrome Browser
+[INFO ] 2020-01-30 15:48:51.615 [main] Stepps - Navigating to URL
+[INFO ] 2020-01-30 15:48:53.253 [main] Stepps - Clicking on Account
+[INFO ] 2020-01-30 15:48:54.619 [main] Stepps - Typing the login email
+[INFO ] 2020-01-30 15:48:54.880 [main] Stepps - Clicking on Continue Button
+[INFO ] 2020-01-30 15:48:55.351 [main] Stepps - Typing the password
+[INFO ] 2020-01-30 15:48:55.490 [main] Stepps - Clicking on Signin
+[INFO ] 2020-01-30 15:48:56.169 [main] Stepps - Verifying SignIn Error Message
+[INFO ] 2020-01-30 15:48:56.215 [main] Stepps - Closing the Browser
+[INFO ] 2020-03-05 14:09:38.754 [main] Stepps - Setting up Chrome Browser
+[INFO ] 2020-03-05 14:09:45.422 [main] Stepps - Navigating to URL
+[INFO ] 2020-03-05 14:09:47.660 [main] Stepps - Clicking on Account
+[INFO ] 2020-03-05 14:09:50.081 [main] Stepps - Typing the login email
+[INFO ] 2020-03-05 14:09:50.354 [main] Stepps - Clicking on Continue Button
+[INFO ] 2020-03-05 14:09:50.855 [main] Stepps - Typing the password
+[INFO ] 2020-03-05 14:09:50.985 [main] Stepps - Clicking on Signin
+[INFO ] 2020-03-05 14:09:53.319 [main] Stepps - Verifying User Name 
+[INFO ] 2020-03-05 14:09:53.563 [main] Stepps - Clicking on SignOut Button
+[INFO ] 2020-03-05 14:09:59.307 [main] Stepps - Closing the Browser
+[INFO ] 2020-03-05 14:09:59.524 [main] Stepps - Setting up Chrome Browser
+[INFO ] 2020-03-05 14:10:01.103 [main] Stepps - Navigating to URL
+[INFO ] 2020-03-05 14:10:02.779 [main] Stepps - Clicking on Account
+[INFO ] 2020-03-05 14:10:04.432 [main] Stepps - Typing the login email
+[INFO ] 2020-03-05 14:10:04.684 [main] Stepps - Clicking on Continue Button
+[INFO ] 2020-03-05 14:10:05.194 [main] Stepps - Typing the password
+[INFO ] 2020-03-05 14:10:05.332 [main] Stepps - Clicking on Signin
+[INFO ] 2020-03-05 14:10:06.027 [main] Stepps - Verifying SignIn Error Message
+[INFO ] 2020-03-05 14:10:06.069 [main] Stepps - Closing the Browser
+[INFO ] 2020-03-05 17:58:09.348 [main] Stepps - Setting up Chrome Browser
+[INFO ] 2020-03-05 17:58:12.094 [main] Stepps - Navigating to URL
+[INFO ] 2020-03-05 17:58:14.248 [main] Stepps - Clicking on Account
+[INFO ] 2020-03-05 17:58:16.078 [main] Stepps - Typing the login email
+[INFO ] 2020-03-05 17:58:16.348 [main] Stepps - Clicking on Continue Button
+[INFO ] 2020-03-05 17:58:16.879 [main] Stepps - Typing the password
+[INFO ] 2020-03-05 17:58:16.998 [main] Stepps - Clicking on Signin
+[INFO ] 2020-03-05 17:58:19.257 [main] Stepps - Verifying User Name 
+[INFO ] 2020-03-05 17:58:19.631 [main] Stepps - Clicking on SignOut Button
+[INFO ] 2020-03-05 17:58:25.281 [main] Stepps - Closing the Browser
+[INFO ] 2020-03-05 17:58:25.519 [main] Stepps - Setting up Chrome Browser
+[INFO ] 2020-03-05 17:58:27.275 [main] Stepps - Navigating to URL
+[INFO ] 2020-03-05 17:58:28.975 [main] Stepps - Clicking on Account
+[INFO ] 2020-03-05 17:58:30.472 [main] Stepps - Typing the login email
+[INFO ] 2020-03-05 17:58:30.774 [main] Stepps - Clicking on Continue Button
+[INFO ] 2020-03-05 17:58:31.255 [main] Stepps - Typing the password
+[INFO ] 2020-03-05 17:58:31.396 [main] Stepps - Clicking on Signin
+[INFO ] 2020-03-05 17:58:32.035 [main] Stepps - Verifying SignIn Error Message
+[INFO ] 2020-03-05 17:58:32.110 [main] Stepps - Closing the Browser
+[INFO ] 2020-03-05 17:58:32.295 [main] Stepps - Setting up Chrome Browser
+[INFO ] 2020-03-05 17:58:33.788 [main] Stepps - Navigating to Amazon
+[INFO ] 2020-03-05 17:58:35.482 [main] Stepps - Verifiying SearchBar
+[INFO ] 2020-03-05 17:58:36.522 [main] Stepps - Typing in searchbar
+[INFO ] 2020-03-05 17:58:36.820 [main] Stepps - Verifying Serach Result
+[INFO ] 2020-03-05 18:00:42.813 [main] Stepps - Setting up Chrome Browser
+[INFO ] 2020-03-05 18:00:45.427 [main] Stepps - Navigating to URL
+[INFO ] 2020-03-05 18:00:47.387 [main] Stepps - Clicking on Account
+[INFO ] 2020-03-05 18:00:49.035 [main] Stepps - Typing the login email
+[INFO ] 2020-03-05 18:00:49.310 [main] Stepps - Clicking on Continue Button
+[INFO ] 2020-03-05 18:00:49.788 [main] Stepps - Typing the password
+[INFO ] 2020-03-05 18:00:49.930 [main] Stepps - Clicking on Signin
+[INFO ] 2020-03-05 18:00:52.114 [main] Stepps - Verifying User Name 
+[INFO ] 2020-03-05 18:00:52.349 [main] Stepps - Clicking on SignOut Button
+[INFO ] 2020-03-05 18:00:57.976 [main] Stepps - Closing the Browser
+[INFO ] 2020-03-05 18:00:58.187 [main] Stepps - Setting up Chrome Browser
+[INFO ] 2020-03-05 18:00:59.799 [main] Stepps - Navigating to URL
+[INFO ] 2020-03-05 18:01:01.412 [main] Stepps - Clicking on Account
+[INFO ] 2020-03-05 18:01:02.972 [main] Stepps - Typing the login email
+[INFO ] 2020-03-05 18:01:03.200 [main] Stepps - Clicking on Continue Button
+[INFO ] 2020-03-05 18:01:03.717 [main] Stepps - Typing the password
+[INFO ] 2020-03-05 18:01:03.875 [main] Stepps - Clicking on Signin
+[INFO ] 2020-03-05 18:01:04.725 [main] Stepps - Verifying SignIn Error Message
+[INFO ] 2020-03-05 18:01:04.765 [main] Stepps - Closing the Browser
+[INFO ] 2020-03-05 18:01:04.923 [main] Stepps - Setting up Chrome Browser
+[INFO ] 2020-03-05 18:01:06.359 [main] Stepps - Navigating to Amazon
+[INFO ] 2020-03-05 18:01:07.990 [main] Stepps - Verifiying SearchBar
+[INFO ] 2020-03-05 18:01:09.050 [main] Stepps - Typing in searchbar
+[INFO ] 2020-03-05 18:01:09.336 [main] Stepps - Verifying Serach Result
+[INFO ] 2020-03-13 17:52:05.352 [main] Stepps - Setting up Chrome Browser
+[INFO ] 2020-03-13 17:52:12.180 [main] Stepps - Navigating to URL
+[INFO ] 2020-03-13 17:52:14.325 [main] Stepps - Clicking on Account
+[INFO ] 2020-03-13 17:52:15.815 [main] Stepps - Typing the login email
+[INFO ] 2020-03-13 17:52:16.065 [main] Stepps - Clicking on Continue Button
+[INFO ] 2020-03-13 17:52:16.582 [main] Stepps - Typing the password
+[INFO ] 2020-03-13 17:52:16.702 [main] Stepps - Clicking on Signin
+[INFO ] 2020-03-13 17:52:19.003 [main] Stepps - Verifying User Name 
+[INFO ] 2020-03-13 17:52:19.348 [main] Stepps - Clicking on SignOut Button
+[INFO ] 2020-03-13 17:52:25.399 [main] Stepps - Closing the Browser
+[INFO ] 2020-03-13 17:52:25.555 [main] Stepps - Setting up Chrome Browser
+[INFO ] 2020-03-13 17:52:27.200 [main] Stepps - Navigating to URL
+[INFO ] 2020-03-13 17:52:28.819 [main] Stepps - Clicking on Account
+[INFO ] 2020-03-13 17:52:30.378 [main] Stepps - Typing the login email
+[INFO ] 2020-03-13 17:52:30.602 [main] Stepps - Clicking on Continue Button
+[INFO ] 2020-03-13 17:52:31.085 [main] Stepps - Typing the password
+[INFO ] 2020-03-13 17:52:31.222 [main] Stepps - Clicking on Signin
+[INFO ] 2020-03-13 17:52:31.956 [main] Stepps - Verifying SignIn Error Message
+[INFO ] 2020-03-13 17:52:31.995 [main] Stepps - Closing the Browser
+[INFO ] 2020-03-13 17:52:32.197 [main] Stepps - Setting up Chrome Browser
+[INFO ] 2020-03-13 17:52:33.575 [main] Stepps - Navigating to Amazon
+[INFO ] 2020-03-13 17:52:35.276 [main] Stepps - Verifiying SearchBar
+[INFO ] 2020-03-13 17:52:36.220 [main] Stepps - Typing in searchbar
+[INFO ] 2020-03-13 17:52:36.524 [main] Stepps - Verifying Serach Result
